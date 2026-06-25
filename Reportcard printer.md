@@ -16,23 +16,3 @@ This file demonstrates basic Python concepts such as variables, data types, and 
 
 ## Learning Outcome
 This exercise helped me understand Python data types and how to check variable types.
-
-#Code
-
-name = 'Alice'
-print(name, type(name))
-
-is_student = True
-print(is_student, type(is_student))
-
-age = 20
-print(age, type(age))
-
-score = 80.5
-print(isinstance(score, float))
-
-## Output
-Alice <class 'str'>
-True <class 'bool'>
-20 <class 'int'>
-True
